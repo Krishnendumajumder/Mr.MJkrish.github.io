@@ -59,12 +59,6 @@ Update the following files with your information:
 - Add your contact information
 
 **Contact Links**:
-```html
-<!-- Update these links with your actual profiles -->
-<a href="https://github.com/yourusername" class="social-link">
-<a href="https://linkedin.com/in/yourusername" class="social-link">
-<a href="mailto:your.email@example.com" class="social-link">
-```
 
 #### Styling
 
@@ -100,7 +94,7 @@ Update the skills section by:
 2. Go to repository settings
 3. Enable GitHub Pages
 4. Select the main branch as source
-5. Your site will be available at `https://yourusername.github.io/repository-name`
+5. Your site will be available at 
 
 ### Netlify
 
@@ -151,5 +145,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - Inspired by modern portfolio designs
 
 ---
-
-**Made with ❤️ by [Your Name]**
